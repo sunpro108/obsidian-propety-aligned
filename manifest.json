@@ -1,0 +1,9 @@
+{
+  "id": "property-filler",
+  "name": "Property Filler",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "根据模板文件自动补全当前文件缺失的属性",
+  "author": "sunpro108",
+  "isDesktopOnly": false
+}

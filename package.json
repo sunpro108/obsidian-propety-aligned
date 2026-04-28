@@ -1,0 +1,13 @@
+{
+    "name": "property-align",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "node esbuild.config.mjs",
+        "dev": "node esbuild.config.mjs --watch"
+
+    },
+    "devDependencies": {
+        "esbuild": "^0.18.0",
+        "obsidian": "^1.0.0"
+    }
+}
